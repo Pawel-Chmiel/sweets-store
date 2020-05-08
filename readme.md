@@ -1,6 +1,6 @@
 # Sweets store
 
-### demo [here](https://raaul007.github.io/sweets-store/)
+### demo [here](https://pawel-chmiel.github.io/sweets-store/)
 
 ## Tech stack:
 
